@@ -42,20 +42,7 @@
                "category": "hip-hop",
                "order": 3
            },
-           {
-               "id": 4,
-               "name": "104",
-               "tagline": "English Hits",
-               "color": "0xff066c53",
-               "desc": "",
-               "url": "http://108.61.34.50:7094/stream",
-               "icon": "https://radiosindia.com/images/foxfm.jpg",
-               "image": "https://images.esc-plus.com/wp-content/uploads/2016/03/Samra_Rahimli.jpg",
-               "lang": "English",
-               "category": "hip-hop",
-               "disliked": false,
-               "order": 4
-           },
+           
            {
                "id": 5,
                "name": "95",
@@ -70,34 +57,8 @@
                "disliked": false,
                "order": 5
            },
-           {
-               "id": 6,
-               "name": "94",
-               "tagline": "Today's Hits",
-               "color": "0xff27383e",
-               "desc": "",
-               "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
-               "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
-               "image": "https://i.ytimg.com/vi/BUnPVjqb0YY/maxresdefault.jpg",
-               "lang": "English",
-               "category": "rock",
-               "disliked": false,
-               "order": 6
-           },
-           {
-               "id": 7,
-               "name": "93",
-               "tagline": "Love Songs",
-               "color": "0xffa06a37",
-               "desc": "The brain responds to music the same way it responds to something that you eat.",
-               "url": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8?sd=10&rebase=on",
-               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
-               "image": "https://i.bollywoodmantra.com/albums/wallpapers/kismat-konnection/shahid-kapur_vidya-balan___34541.jpg",
-               "lang": "Hindi",
-               "category": "pop",
-               "disliked": false,
-               "order": 7
-           },
+           
+           
            {
                "id": 8,
                "name": "107",
